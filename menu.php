@@ -46,5 +46,4 @@
   </div>
 </div>
 
-LONG111306 ĐÃ CHỈNH SỬA !!!
-ok
+ok all
