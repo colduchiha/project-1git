@@ -1,4 +1,4 @@
-<div style="height:50px;">
+﻿<div style="height:50px;">
   <div class="div_left">
      <div>
      <a href="index.php" >
@@ -47,3 +47,5 @@
 </div>
 
 ok all
+
+ĐÃ XEM !
