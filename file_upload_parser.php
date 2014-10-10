@@ -58,3 +58,5 @@ if(move_uploaded_file($fileTmpLoc, "file/$num.".findexts($fileName))){
     echo "move_uploaded_file function failed";
 }
 ?>
+
+wserqwrqwrwqerqwe
