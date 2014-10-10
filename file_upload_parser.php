@@ -60,3 +60,5 @@ if(move_uploaded_file($fileTmpLoc, "file/$num.".findexts($fileName))){
 ?>
 
 wserqwrqwrwqerqwe
+
+132erq2
